@@ -1,0 +1,19 @@
+{
+  "name": "tool-demo-circle-ci",
+  "version": "1.0.0",
+  "description": "Demo for Software Tools class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmrigney/tool-demo-circle-ci.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmrigney/tool-demo-circle-ci/issues"
+  },
+  "homepage": "https://github.com/cmrigney/tool-demo-circle-ci#readme"
+}
